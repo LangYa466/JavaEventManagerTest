@@ -1,4 +1,6 @@
 # EventManagerTest
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLangYa466%2FJavaEventManagerTest.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLangYa466%2FJavaEventManagerTest?ref=badge_shield)
+
 
 ## 结果
 
@@ -15,3 +17,7 @@
 > - 每个框架执行三轮 每轮执行相同的事件发布逻辑共 10000 次
 > - 平均耗时为三轮结果的算术平均值 保留两位小数
 > - 测试环境(Win10, 32G 内存, i5 12400)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLangYa466%2FJavaEventManagerTest.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLangYa466%2FJavaEventManagerTest?ref=badge_large)
